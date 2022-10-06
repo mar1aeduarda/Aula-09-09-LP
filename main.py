@@ -7,3 +7,5 @@ print(file.read())
 file.write("OI dnv \n")
 file.seek(0,0)
 file.close()
+
+print("teste de modificacao de codigo")
